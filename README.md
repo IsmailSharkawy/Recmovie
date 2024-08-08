@@ -14,7 +14,7 @@ Recmovie is a simple CRUD application designed to recommend movies based on the 
 
 ## Tech Stack
 
-- **Frontend:** React (with Vite)
+- **Frontend:** React (with Vite) (Please excuse the current UI, hehe)
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (cloud-based cluster)
 - **Authentication:** JWT
