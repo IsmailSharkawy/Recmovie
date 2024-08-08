@@ -1,0 +1,54 @@
+export const DAY_TIMES = {
+  MORNING: "morning",
+  AFTERNOON: "afternoon",
+  NIGHT: "night",
+};
+
+export const DAY_TYPES = {
+  WEEKDAYS: "weekdays",
+  WEEKENDS: "weekends",
+};
+
+export const MOVIE_GENRES = {
+  ACTION: "Action",
+  ADVENTURE: "Adventure",
+  ANIMATION: "Animation",
+  COMEDY: "Comedy",
+  CRIME: "Crime",
+  DOCUMENTARY: "Documentary",
+  DRAMA: "Drama",
+  FAMILY: "Family",
+  FANTASY: "Fantasy",
+  HISTORY: "History",
+  HORROR: "Horror",
+  MUSIC: "Music",
+  MYSTERY: "Mystery",
+  ROMANCE: "Romance",
+  SCIENCE_FICTION: "Science Fiction",
+  TV_MOVIE: "TV Movie",
+  THRILLER: "Thriller",
+  WAR: "War",
+  WESTERN: "Western",
+};
+
+export const MOVIE_GENRES_MAP = {
+  [MOVIE_GENRES.ACTION]: 28,
+  [MOVIE_GENRES.ADVENTURE]: 12,
+  [MOVIE_GENRES.ANIMATION]: 16,
+  [MOVIE_GENRES.COMEDY]: 35,
+  [MOVIE_GENRES.CRIME]: 80,
+  [MOVIE_GENRES.DOCUMENTARY]: 99,
+  [MOVIE_GENRES.DRAMA]: 18,
+  [MOVIE_GENRES.FAMILY]: 10751,
+  [MOVIE_GENRES.FANTASY]: 14,
+  [MOVIE_GENRES.HISTORY]: 36,
+  [MOVIE_GENRES.HORROR]: 27,
+  [MOVIE_GENRES.MUSIC]: 10402,
+  [MOVIE_GENRES.MYSTERY]: 9648,
+  [MOVIE_GENRES.ROMANCE]: 10749,
+  [MOVIE_GENRES.SCIENCE_FICTION]: 878,
+  [MOVIE_GENRES.TV_MOVIE]: 10770,
+  [MOVIE_GENRES.THRILLER]: 53,
+  [MOVIE_GENRES.WAR]: 10752,
+  [MOVIE_GENRES.WESTERN]: 37,
+};
